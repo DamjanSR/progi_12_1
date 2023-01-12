@@ -1,0 +1,120 @@
+.input-data-button {
+  background-color: #135ec0; /* Green */
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.input-data{
+  width: 50%;
+  height: 30px;
+  margin-top :10px;
+  margin-bottom: 20px;
+  text-align: center;
+  border-radius: 5px;
+  border:  2.5px solid black;
+}
+.input-image{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar{
+  display : flex;
+  align-items: center;
+  justify-content: flex-end;
+
+}
+
+.navbar-items{
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.navbar-parent{
+  background-color: rgb(206, 206, 206);
+  opacity: 90%;
+
+}
+
+.App {
+  text-align: center;
+}
+
+.registerText{
+  font-size: 13px;
+  color: white;
+}
+
+.register-container{
+  width: 40%;
+}
+
+.form-title{
+  font-size: 34px;
+  font-weight: 750;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  
+  color: white;
+}
+.register-form{
+  margin-top: 0px;
+}
+
+.login-form-container{
+  margin-top: 0px;
+}
+
+.home-container
+{
+  display: flex;
+ justify-content: center;
+ grid-row-start : center;
+}
+.player-option-display{
+
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid: center;
+
+}
+#RegisterContainer, .logoWrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+#FormRegister {
+  width: 100%;
+  height: 100%;
+}
+form {
+  margin: auto;
+  width:100%;
+  max-width: 50vw;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+}
+
+.formRow {
+  margin: 3px 0;
+  justify-content: space-between
+}
+.formRow input{
+  padding: 6px;
+}
+.col25 {
+  float: left;
+  width: 25%;
+}
+
+.col75{
+  float:left;
+  width: 75%;
+}

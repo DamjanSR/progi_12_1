@@ -1,0 +1,7 @@
+Napisani su funkcionalni zahtjevi raspravljeni na sastanku i uređen je kostur projektne dokumentacije.
+
+9.11. Dodani novi obrasci uporabe (UC12-UC17). - M.A.
+15.11. Dodano poglavlje 2 - M.K.
+15.11. Dodano poglavlje 3.2, ispravljeno poglavlje 2 - M.K.
+15.11. Prepravljeni UC1-4 i napisan opis sekvencijskih dijagrama - L.A.
+16.11. Napravljeni sekvencijski dijagrami - L.A.
